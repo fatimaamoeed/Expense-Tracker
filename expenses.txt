@@ -1,0 +1,3 @@
+food,3.0
+cleaning,6.0
+house,150.0
